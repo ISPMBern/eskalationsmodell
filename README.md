@@ -1,5 +1,5 @@
 # eskalationsmodell
-[<img align="right" width="250" src="cover.jpg">](Thesenpapier_Eskalationsmodell.pdf)
+[<img align="right" width="200" src="cover.jpg">](Thesenpapier_Eskalationsmodell.pdf)
 ## Prüfung des Eskalationsmodells (Art. 6 und 7 EpG) unter besonderer Berücksichtigung der Epidemiologie übertragbarer Krankheiten sowie Public-Health-Aspekten
 ### Thesenpapier im Auftrag des [Bundesamtes für Gesundheit (BAG)](https://www.bag.admin.ch) im Rahmen der [Revision des Epidemiengesetzes (EpG)](https://www.bag.admin.ch/bag/de/home/strategie-und-politik/politische-auftraege-und-aktionsplaene/revision-epidemiengesetz.html)
 
